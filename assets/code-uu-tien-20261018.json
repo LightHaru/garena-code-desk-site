@@ -1,0 +1,58 @@
+{
+  "checkedAt": "2026-10-18T10:53:13.605443+00:00",
+  "verifiedRedeemable": false,
+  "accountRedemption": "NOT_RUN",
+  "note": "Ứng viên ưu tiên từ nhiều trang công khai; hiệu lực do Garena xác nhận khi đổi.",
+  "codes": [
+    {
+      "code": "WELCOMETODF",
+      "sources": [
+        {
+          "id": "codemoi",
+          "name": "Code Mới",
+          "url": "https://codemoi.net/games/delta-force/"
+        },
+        {
+          "id": "download",
+          "name": "Download.com.vn",
+          "url": "https://download.com.vn/code-game-delta-force-195638"
+        },
+        {
+          "id": "fpt",
+          "name": "FPT Shop",
+          "url": "https://fptshop.com.vn/tin-tuc/danh-gia/code-delta-force-184570"
+        },
+        {
+          "id": "dienmayxanh",
+          "name": "Điện máy XANH",
+          "url": "https://www.dienmayxanh.com/kinh-nghiem-hay/code-delta-force-garena-moi-nhat-1591472"
+        },
+        {
+          "id": "phucanh",
+          "name": "Phúc Anh",
+          "url": "https://www.phucanh.vn/code-delta-force-moi-nhat-cach-nhap-giftcode-tan-thu-cuc-nhanh.html"
+        }
+      ]
+    },
+    {
+      "code": "DFVNA4T8Z6P3",
+      "sources": [
+        {
+          "id": "codemoi",
+          "name": "Code Mới",
+          "url": "https://codemoi.net/games/delta-force/"
+        },
+        {
+          "id": "fpt",
+          "name": "FPT Shop",
+          "url": "https://fptshop.com.vn/tin-tuc/danh-gia/code-delta-force-184570"
+        },
+        {
+          "id": "dienmayxanh",
+          "name": "Điện máy XANH",
+          "url": "https://www.dienmayxanh.com/kinh-nghiem-hay/code-delta-force-garena-moi-nhat-1591472"
+        }
+      ]
+    }
+  ]
+}
